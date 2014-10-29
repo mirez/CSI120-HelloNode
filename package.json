@@ -1,0 +1,26 @@
+{
+  "name": "CSI120-HelloNode",
+  "version": "1.0.0",
+  "description": "stuff",
+  "main": "server.js",
+  "dependencies": {
+    "express" : "latest"
+    },
+  "devDependencies": {
+
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirez/CSI120-HelloNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirez/CSI120-HelloNode/issues"
+  },
+  "homepage": "https://github.com/mirez/CSI120-HelloNode"
+}
